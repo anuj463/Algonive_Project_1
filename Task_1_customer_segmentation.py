@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("Customer_Segmentation_Dataset.csv", encoding='utf-8-sig')
+df = pd.read_csv("Task_1_Customer_Segmentation_Dataset.csv", encoding='utf-8-sig')
 
 print(df.head())
 print(df.info())
